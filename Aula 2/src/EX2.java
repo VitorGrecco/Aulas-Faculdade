@@ -40,8 +40,10 @@ public class EX2 {
             default:
             System.out.println(" opração invalida.");
             break;
+            
 
         }
+        sc.close();
 
         // if (opera == 1){
             

@@ -16,5 +16,8 @@ public class EX1 {
             System.out.println("neutro");
         } else
             System.out.println("negativo");
+            
+            sc.close();
     }
+    
 }

@@ -43,6 +43,7 @@ public class EX4 {
             
 
          }
+         sc.close();
 
         }
     }
