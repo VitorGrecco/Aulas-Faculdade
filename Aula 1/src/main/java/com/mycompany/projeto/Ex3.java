@@ -25,6 +25,7 @@ public class Ex3 {
     comissao = (precoUnit * qtdeVenda)*0.05;
     
     System.out.print(" comissao: " + comissao);
-    }
+sc.close();    
+}
     
 }

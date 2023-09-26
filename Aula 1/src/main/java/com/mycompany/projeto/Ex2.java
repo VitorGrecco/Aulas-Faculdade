@@ -35,7 +35,7 @@ public class Ex2 {
          result = num1 * num1 + num2 * num2 + num3 * num3 + num4 * num4;
          System.out.println(" Resultado: " + result);
          
-         
+         sc.close();
      
      }
 }

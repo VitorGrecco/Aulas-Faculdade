@@ -28,5 +28,9 @@ public class ExExemplo {
       result = num1 + num2; 
       
       System.out.println(" Resultado: " + result);
+      sc.close();
+
+
     }
+
 }

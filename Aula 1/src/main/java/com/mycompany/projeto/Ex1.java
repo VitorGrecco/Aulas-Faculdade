@@ -27,5 +27,6 @@ public class Ex1 {
         real = cotDolar * qtDolar;
         System.out.println(" Real R$: " + real);
         
+        sc.close();
    }
 }
